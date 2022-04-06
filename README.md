@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cdsapp
-- 👀 I’m interested in corpus linguistics
-- 🌱 I’m currently learning python
+- 👀 I’m developing a parsed historical corpus of German
 
 
 <!---
